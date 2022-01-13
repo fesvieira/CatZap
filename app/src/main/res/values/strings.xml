@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CatZap</string>
+    <string name="cat_image">catImage</string>
+</resources>
